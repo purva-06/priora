@@ -6,6 +6,16 @@ Priora is a Flutter application that leverages **Google Gemini**, **Firebase**, 
 
 Built as a hackathon project, Priora acts as an **AI Chief of Staff** rather than a traditional to-do list.
 
+<p align="center">
+  <img src="assets/images/logo.png" width="180">
+</p>
+
+<h1 align="center">Priora</h1>
+
+<p align="center">
+AI-powered Productivity Companion
+</p>
+
 ---
 
 # ✨ Features
