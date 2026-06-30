@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "93394305926",
+    "project_id": "priora-df8ba",
+    "storage_bucket": "priora-df8ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93394305926:android:d0ec67b1cfe69e5f6c2207",
+        "android_client_info": {
+          "package_name": "com.example.priora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93394305926-mnuv17vbqcc2r4ggjrkh2qb366jubn3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgGMRZeMfIbfGvpZPxagkF0imMUEyhTCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93394305926-mnuv17vbqcc2r4ggjrkh2qb366jubn3p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "93394305926-hh448tont9mft4ia71b1mt9j4105gdgh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.priora"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
